@@ -6,8 +6,8 @@ I build APIs that actually solve problems — from personal finance tracking wit
 
 ## What I work with
 
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Backend:** FastAPI, Express, Node.js  
+**Languages:** Python, TypeScript, Go, JavaScript, SQL  
+**Backend:** FastAPI, Express, Gin, Node.js  
 **Databases:** PostgreSQL, Redis, MongoDB  
 **Infrastructure:** Docker, GitHub Actions, Alembic, Prisma  
 **Other:** OpenAI API, WebSocket, JWT auth, Clean Architecture
@@ -19,6 +19,9 @@ Personal finance API with AI-powered transaction categorization. Built with Fast
 
 ### [SmartBooking](https://github.com/CarlosAlbertoFurtado/smart-booking)
 Booking system for local businesses. Built with TypeScript, Express, Prisma, PostgreSQL, and Redis. Includes conflict detection, real-time updates via WebSocket, and multi-role authentication.
+
+### [NotifyHub](https://github.com/CarlosAlbertoFurtado/notifyhub)
+Multi-channel notification microservice. Built with Go, Gin, and PostgreSQL. Async dispatch via goroutines, delivery tracking, and SMTP integration.
 
 ### [Lacrei Saude API](https://github.com/CarlosAlbertoFurtado/lacrei-saude-api)
 Volunteer project — healthcare API for the Lacrei Saude platform.
