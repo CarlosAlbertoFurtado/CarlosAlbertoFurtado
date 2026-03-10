@@ -1,13 +1,14 @@
 # Carlos Jr
 
-Backend developer based in Campinas, Brazil.
+Full-stack developer based in Campinas, Brazil.
 
-I build APIs that actually solve problems — from personal finance tracking with AI categorization to booking systems for small businesses. I care about clean architecture, automated testing, and code that's easy to maintain.
+I build APIs and dashboards that actually solve problems — from personal finance tracking with AI categorization to booking systems for small businesses. I care about clean architecture, automated testing, and code that's easy to maintain.
 
 ## What I work with
 
 **Languages:** Python, TypeScript, Go, JavaScript, SQL  
 **Backend:** FastAPI, Express, Gin, Node.js  
+**Frontend:** Next.js, React, Tailwind CSS, Recharts  
 **Databases:** PostgreSQL, Redis, MongoDB  
 **Infrastructure:** Docker, GitHub Actions, Alembic, Prisma  
 **Other:** OpenAI API, WebSocket, JWT auth, Clean Architecture
@@ -16,6 +17,9 @@ I build APIs that actually solve problems — from personal finance tracking wit
 
 ### [FinTrack API](https://github.com/CarlosAlbertoFurtado/fintrack-api)
 Personal finance API with AI-powered transaction categorization. Built with FastAPI, PostgreSQL, Redis, and OpenAI. Features budget tracking, spending reports, and automatic category suggestions.
+
+### [FinTrack Dashboard](https://github.com/CarlosAlbertoFurtado/fintrack-dash)
+Frontend for FinTrack — spending charts, category breakdowns, monthly trends. Built with Next.js, React, Recharts, and Tailwind CSS.
 
 ### [SmartBooking](https://github.com/CarlosAlbertoFurtado/smart-booking)
 Booking system for local businesses. Built with TypeScript, Express, Prisma, PostgreSQL, and Redis. Includes conflict detection, real-time updates via WebSocket, and multi-role authentication.
