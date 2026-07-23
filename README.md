@@ -1,6 +1,6 @@
 ## 👋 Olá, sou o Carlos Jr
 
-Desenvolvedor Backend morando em Campinas, SP.
+Desenvolvedor Fullstack morando em Campinas, SP.
 Construo APIs e sistemas que resolvem problemas reais.
 Minha prioridade é entregar código limpo (Clean Architecture), com testes automatizados e fácil de manter.
 
